@@ -760,7 +760,7 @@ st.markdown("""
 </div>
 </details>
 <span style="color: #64748b;">•</span>
-<a href="https://github.com/YOUR-USERNAME/TripSafe-AI" target="_blank">🐱 GitHub</a>
+<a href="https://github.com/GudiyaVishwakarma-7080/TripSafe-AI" target="_blank">🐱 GitHub</a>
 </div>
 </div>
 """, unsafe_allow_html=True)
